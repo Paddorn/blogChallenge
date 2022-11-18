@@ -15,6 +15,13 @@
     color: #1abc9c !important;
 }
 
+.postContent
+{
+   
+    overflow-wrap: anywhere;
+    display: inline-block;
+}
+
 .footer-padding {
 	padding-bottom: 60px;
 }
